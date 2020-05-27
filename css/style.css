@@ -4,9 +4,23 @@
 }
 
 .quemSomos{
-    background-color: #ecf0f1;
+    background-color: #dff9fb;
 }
 
 .margin{
     padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.midias{
+    background-color: #B3E5FC;
+}
+
+.servicos{
+    background-color: #81D4FA;
+}
+
+.bg-footer{
+    color: #ffffff;
+    background-color: #333333;
 }
